@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fireworks/static/css/main.efd8e682.chunk.css",
+    "main.js": "/fireworks/static/js/main.b4b8bd14.chunk.js",
+    "main.js.map": "/fireworks/static/js/main.b4b8bd14.chunk.js.map",
+    "runtime-main.js": "/fireworks/static/js/runtime-main.d4c68f91.js",
+    "runtime-main.js.map": "/fireworks/static/js/runtime-main.d4c68f91.js.map",
+    "static/js/2.51236393.chunk.js": "/fireworks/static/js/2.51236393.chunk.js",
+    "static/js/2.51236393.chunk.js.map": "/fireworks/static/js/2.51236393.chunk.js.map",
+    "index.html": "/fireworks/index.html",
+    "precache-manifest.dbbd713af3c0c24eab0d47cae07f1548.js": "/fireworks/precache-manifest.dbbd713af3c0c24eab0d47cae07f1548.js",
+    "service-worker.js": "/fireworks/service-worker.js",
+    "static/css/main.efd8e682.chunk.css.map": "/fireworks/static/css/main.efd8e682.chunk.css.map",
+    "static/js/2.51236393.chunk.js.LICENSE.txt": "/fireworks/static/js/2.51236393.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4c68f91.js",
+    "static/js/2.51236393.chunk.js",
+    "static/css/main.efd8e682.chunk.css",
+    "static/js/main.b4b8bd14.chunk.js"
+  ]
+}
